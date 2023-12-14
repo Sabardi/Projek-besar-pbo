@@ -1,4 +1,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/bicarak1/public_html/
-    - /bin/cp login.php $DEPLOYPATH
+    - /bin/cp -R login.php $DEPLOYPATH

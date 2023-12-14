@@ -20,7 +20,7 @@
     <!-- content section -->
     <section>
         <div class="container">
-            <a href="login.php">ke bagian login </a>
+            <a href="./frontend/login.php">ke bagian login </a>
         </div>
     </section>
 </body>

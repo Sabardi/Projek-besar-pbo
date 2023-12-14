@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sevice computer</title>
-    <link rel="shortcut icon" href="img/logo service.png" type="image/x-icon">
-    <link rel="stylesheet" href="asset/css/bootstrap.min.css">
+    <link rel="shortcut icon" href="../img/logo service.png" type="image/x-icon">
+    <link rel="stylesheet" href="../asset/css/bootstrap.min.css">
     <style>
         body {
           display: flex;
@@ -22,7 +22,7 @@
     <div class="container">
     <div class="d-flex align-items-center">
         <form>
-            <img class="mb-4" src="img/logo service.png" alt="" width="500px">
+            <img class="mb-4" src="../img/logo service.png" alt="" width="500px">
             <h1 class="h3 mb-3 fw-normal">silahkan login</h1>
         
             <div class="form-floating">
@@ -40,7 +40,7 @@
                 Ingatkan saya
               </label>
             </div>
-            <a href="index.php" class="btn btn-primary w-100 py-2">login</a>
+            <a href="/index.php" class="btn btn-primary w-100 py-2">login</a>
                 <!-- <button class="btn btn-primary w-100 py-2" type="submit">>login</button> -->
           </form>
         </div>
