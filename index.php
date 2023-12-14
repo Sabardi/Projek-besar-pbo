@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sevice computer</title>
-    <link rel="shortcut icon" href="/asset/img/logo service.png" type="image/x-icon">
+    <link rel="shortcut icon" href="asset/img/logo service.png" type="image/x-icon">
     <link rel="stylesheet" href="asset/css/bootstrap.min.css">
     <style>
         body {
@@ -22,7 +22,7 @@
     <div class="container">
     <div class="d-flex align-items-center">
         <form>
-            <img class="mb-4" src="../img/logo service.png" alt="" width="500px">
+            <img class="mb-4" src="asset/img/logo service.png" alt="" width="500px">
             <h1 class="h3 mb-3 fw-normal">silahkan login</h1>
         
             <div class="form-floating">
