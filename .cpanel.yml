@@ -3,4 +3,6 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/bicarak1/public_html/
     # - /bin/cp -R frontend $DEPLOYPATH
+    # - /bin/cp -R img $DEPLOYPATH
+    - /bin/cp -R asset $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH

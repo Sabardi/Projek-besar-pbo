@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sevice computer</title>
-    <link rel="shortcut icon" href="img/logo service.png" type="image/x-icon">
+    <link rel="shortcut icon" href="/asset/img/logo service.png" type="image/x-icon">
     <link rel="stylesheet" href="asset/css/bootstrap.min.css">
     <style>
         body {
